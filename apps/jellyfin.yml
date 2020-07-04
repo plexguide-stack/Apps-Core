@@ -15,7 +15,7 @@
         pgrole: 'jellyfin'
         intport: '8096'
         extport: '9096'
-        image: 'jellyfin/jellyfin:jellyfin:10.4.1'
+        image: 'jellyfin/jellyfin:10.4.1'
 
     # CORE (MANDATORY) ############################################################
     - name: 'Including cron job'
