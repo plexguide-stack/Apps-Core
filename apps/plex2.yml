@@ -12,7 +12,7 @@
     # FACTS #######################################################################
     - name: 'Set Known Facts'
       set_fact:
-        pgrole: 'plex'
+        pgrole: 'plex2'
         intport: '32400/tcp'
         extport: '32400'
         intport2: '3005/tcp'
