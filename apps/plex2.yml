@@ -177,7 +177,7 @@
     ######################################### DEPLOY PLEX REMOTE (ANSWER 2)
     - name: Deploy Plex Container (Remote Edition)
       docker_container:
-        name: plex
+        name: plex2
         image: '{{image}}'
         pull: yes
         published_ports:
